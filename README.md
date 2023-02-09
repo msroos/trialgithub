@@ -1,2 +1,2 @@
 # trialgithub
-# The first trial to check whether te connection works
+# The first trial to check whether the connection works
